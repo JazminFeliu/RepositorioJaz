@@ -235,7 +235,6 @@ Algoritmo CRM
 	
 	Definir opcionElegida Como Entero;
 	stockArticulosCargados = 0;
-	idArticulo = 1;
 	
 	opcionElegida = elegirOpcion();
 	
