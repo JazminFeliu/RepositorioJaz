@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Interpolacion1\bin\Debug\Interpolacion1.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Interpolacion1\bin\Debug\Interpolacion1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Interpolacion1\bin\Debug\Interpolacion1.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Interpolacion1\obj\Debug\Interpolacion1.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Interpolacion1\obj\Debug\Interpolacion1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Interpolacion1\obj\Debug\Interpolacion1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Interpolacion1\obj\Debug\Interpolacion1.pdb

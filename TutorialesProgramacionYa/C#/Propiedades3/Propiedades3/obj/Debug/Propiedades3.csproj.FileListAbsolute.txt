@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Propiedades3\Propiedades3\bin\Debug\Propiedades3.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Propiedades3\Propiedades3\bin\Debug\Propiedades3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Propiedades3\Propiedades3\bin\Debug\Propiedades3.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Propiedades3\Propiedades3\obj\Debug\Propiedades3.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Propiedades3\Propiedades3\obj\Debug\Propiedades3.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Propiedades3\Propiedades3\obj\Debug\Propiedades3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Propiedades3\Propiedades3\obj\Debug\Propiedades3.pdb

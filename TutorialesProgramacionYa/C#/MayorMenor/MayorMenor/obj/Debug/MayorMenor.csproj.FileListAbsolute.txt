@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorMenor\MayorMenor\bin\Debug\MayorMenor.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorMenor\MayorMenor\bin\Debug\MayorMenor.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorMenor\MayorMenor\bin\Debug\MayorMenor.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorMenor\MayorMenor\obj\Debug\MayorMenor.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorMenor\MayorMenor\obj\Debug\MayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorMenor\MayorMenor\obj\Debug\MayorMenor.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorMenor\MayorMenor\obj\Debug\MayorMenor.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorReferencia4\bin\Debug\ParametrosPorReferencia4.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorReferencia4\bin\Debug\ParametrosPorReferencia4.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorReferencia4\bin\Debug\ParametrosPorReferencia4.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorReferencia4\obj\Debug\ParametrosPorReferencia4.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorReferencia4\obj\Debug\ParametrosPorReferencia4.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorReferencia4\obj\Debug\ParametrosPorReferencia4.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorReferencia4\obj\Debug\ParametrosPorReferencia4.pdb

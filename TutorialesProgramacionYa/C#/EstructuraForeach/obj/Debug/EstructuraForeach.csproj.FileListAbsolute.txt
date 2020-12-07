@@ -1,0 +1,6 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraForeach\bin\Debug\EstructuraForeach.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraForeach\bin\Debug\EstructuraForeach.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraForeach\bin\Debug\EstructuraForeach.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraForeach\obj\Debug\EstructuraForeach.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraForeach\obj\Debug\EstructuraForeach.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraForeach\obj\Debug\EstructuraForeach.pdb

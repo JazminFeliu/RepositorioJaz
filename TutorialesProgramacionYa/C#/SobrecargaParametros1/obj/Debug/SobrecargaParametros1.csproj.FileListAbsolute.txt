@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaParametros1\obj\Debug\SobrecargaParametros1.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaParametros1\obj\Debug\SobrecargaParametros1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaParametros1\bin\Debug\SobrecargaParametros1.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaParametros1\bin\Debug\SobrecargaParametros1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaParametros1\bin\Debug\SobrecargaParametros1.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaParametros1\obj\Debug\SobrecargaParametros1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaParametros1\obj\Debug\SobrecargaParametros1.pdb

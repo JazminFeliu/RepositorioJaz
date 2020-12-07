@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ComparaNum1yNum2\ComparaNum1yNum2\obj\Debug\ComparaNum1yNum2.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ComparaNum1yNum2\ComparaNum1yNum2\obj\Debug\ComparaNum1yNum2.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ComparaNum1yNum2\ComparaNum1yNum2\bin\Debug\ComparaNum1yNum2.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ComparaNum1yNum2\ComparaNum1yNum2\bin\Debug\ComparaNum1yNum2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ComparaNum1yNum2\ComparaNum1yNum2\bin\Debug\ComparaNum1yNum2.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ComparaNum1yNum2\ComparaNum1yNum2\obj\Debug\ComparaNum1yNum2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ComparaNum1yNum2\ComparaNum1yNum2\obj\Debug\ComparaNum1yNum2.pdb

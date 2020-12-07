@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PurebaVector3\PurebaVector3\bin\Debug\PurebaVector3.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PurebaVector3\PurebaVector3\bin\Debug\PurebaVector3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PurebaVector3\PurebaVector3\bin\Debug\PurebaVector3.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PurebaVector3\PurebaVector3\obj\Debug\PurebaVector3.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PurebaVector3\PurebaVector3\obj\Debug\PurebaVector3.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PurebaVector3\PurebaVector3\obj\Debug\PurebaVector3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PurebaVector3\PurebaVector3\obj\Debug\PurebaVector3.pdb

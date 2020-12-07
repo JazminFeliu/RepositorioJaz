@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor3\PruebaConstructor3\bin\Debug\PruebaConstructor3.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor3\PruebaConstructor3\bin\Debug\PruebaConstructor3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor3\PruebaConstructor3\bin\Debug\PruebaConstructor3.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor3\PruebaConstructor3\obj\Debug\PruebaConstructor3.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor3\PruebaConstructor3\obj\Debug\PruebaConstructor3.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor3\PruebaConstructor3\obj\Debug\PruebaConstructor3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor3\PruebaConstructor3\obj\Debug\PruebaConstructor3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaPrimerTrimestre\FechaPrimerTrimestre\bin\Debug\FechaPrimerTrimestre.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaPrimerTrimestre\FechaPrimerTrimestre\bin\Debug\FechaPrimerTrimestre.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaPrimerTrimestre\FechaPrimerTrimestre\bin\Debug\FechaPrimerTrimestre.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaPrimerTrimestre\FechaPrimerTrimestre\obj\Debug\FechaPrimerTrimestre.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaPrimerTrimestre\FechaPrimerTrimestre\obj\Debug\FechaPrimerTrimestre.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaPrimerTrimestre\FechaPrimerTrimestre\obj\Debug\FechaPrimerTrimestre.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaPrimerTrimestre\FechaPrimerTrimestre\obj\Debug\FechaPrimerTrimestre.pdb

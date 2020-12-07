@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoExtension3", "MetodoExtension3.csproj", "{FFF15289-F723-41A2-AE87-3543F689504B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF15289-F723-41A2-AE87-3543F689504B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF15289-F723-41A2-AE87-3543F689504B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF15289-F723-41A2-AE87-3543F689504B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF15289-F723-41A2-AE87-3543F689504B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3330F725-87E6-4899-9123-B3172411716E}
+	EndGlobalSection
+EndGlobal

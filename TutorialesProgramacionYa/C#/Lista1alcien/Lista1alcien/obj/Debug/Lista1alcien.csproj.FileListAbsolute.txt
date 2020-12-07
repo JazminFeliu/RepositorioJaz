@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Lista1alcien\Lista1alcien\bin\Debug\Lista1alcien.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Lista1alcien\Lista1alcien\bin\Debug\Lista1alcien.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Lista1alcien\Lista1alcien\bin\Debug\Lista1alcien.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Lista1alcien\Lista1alcien\obj\Debug\Lista1alcien.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Lista1alcien\Lista1alcien\obj\Debug\Lista1alcien.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Lista1alcien\Lista1alcien\obj\Debug\Lista1alcien.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Lista1alcien\Lista1alcien\obj\Debug\Lista1alcien.pdb

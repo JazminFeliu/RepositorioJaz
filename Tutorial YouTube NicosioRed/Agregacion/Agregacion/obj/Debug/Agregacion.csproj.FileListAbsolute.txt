@@ -1,0 +1,7 @@
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Agregacion\Agregacion\obj\Debug\Agregacion.csprojAssemblyReference.cache
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Agregacion\Agregacion\obj\Debug\Agregacion.csproj.CoreCompileInputs.cache
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Agregacion\Agregacion\bin\Debug\Agregacion.exe.config
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Agregacion\Agregacion\bin\Debug\Agregacion.exe
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Agregacion\Agregacion\bin\Debug\Agregacion.pdb
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Agregacion\Agregacion\obj\Debug\Agregacion.exe
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Agregacion\Agregacion\obj\Debug\Agregacion.pdb

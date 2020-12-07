@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ClaseParcial1\ClaseParcial1\bin\Debug\ClaseParcial1.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ClaseParcial1\ClaseParcial1\bin\Debug\ClaseParcial1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ClaseParcial1\ClaseParcial1\bin\Debug\ClaseParcial1.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ClaseParcial1\ClaseParcial1\obj\Debug\ClaseParcial1.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ClaseParcial1\ClaseParcial1\obj\Debug\ClaseParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ClaseParcial1\ClaseParcial1\obj\Debug\ClaseParcial1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ClaseParcial1\ClaseParcial1\obj\Debug\ClaseParcial1.pdb

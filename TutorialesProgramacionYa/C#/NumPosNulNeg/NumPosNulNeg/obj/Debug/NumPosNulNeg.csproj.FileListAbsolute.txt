@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NumPosNulNeg\NumPosNulNeg\bin\Debug\NumPosNulNeg.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NumPosNulNeg\NumPosNulNeg\bin\Debug\NumPosNulNeg.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NumPosNulNeg\NumPosNulNeg\bin\Debug\NumPosNulNeg.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NumPosNulNeg\NumPosNulNeg\obj\Debug\NumPosNulNeg.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NumPosNulNeg\NumPosNulNeg\obj\Debug\NumPosNulNeg.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NumPosNulNeg\NumPosNulNeg\obj\Debug\NumPosNulNeg.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NumPosNulNeg\NumPosNulNeg\obj\Debug\NumPosNulNeg.pdb

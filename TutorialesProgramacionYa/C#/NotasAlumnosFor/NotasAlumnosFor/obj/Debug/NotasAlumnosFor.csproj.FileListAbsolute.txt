@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NotasAlumnosFor\NotasAlumnosFor\bin\Debug\NotasAlumnosFor.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NotasAlumnosFor\NotasAlumnosFor\bin\Debug\NotasAlumnosFor.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NotasAlumnosFor\NotasAlumnosFor\bin\Debug\NotasAlumnosFor.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NotasAlumnosFor\NotasAlumnosFor\obj\Debug\NotasAlumnosFor.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NotasAlumnosFor\NotasAlumnosFor\obj\Debug\NotasAlumnosFor.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NotasAlumnosFor\NotasAlumnosFor\obj\Debug\NotasAlumnosFor.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NotasAlumnosFor\NotasAlumnosFor\obj\Debug\NotasAlumnosFor.csprojAssemblyReference.cache

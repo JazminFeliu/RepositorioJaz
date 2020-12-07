@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion10\bin\Debug\PruebaExcepcion10.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion10\bin\Debug\PruebaExcepcion10.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion10\bin\Debug\PruebaExcepcion10.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion10\obj\Debug\PruebaExcepcion10.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion10\obj\Debug\PruebaExcepcion10.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion10\obj\Debug\PruebaExcepcion10.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion10\obj\Debug\PruebaExcepcion10.pdb

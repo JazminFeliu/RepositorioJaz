@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AtributosEstaticos1\obj\Debug\AtributosEstaticos1.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AtributosEstaticos1\obj\Debug\AtributosEstaticos1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AtributosEstaticos1\bin\Debug\AtributosEstaticos1.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AtributosEstaticos1\bin\Debug\AtributosEstaticos1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AtributosEstaticos1\bin\Debug\AtributosEstaticos1.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AtributosEstaticos1\obj\Debug\AtributosEstaticos1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AtributosEstaticos1\obj\Debug\AtributosEstaticos1.pdb

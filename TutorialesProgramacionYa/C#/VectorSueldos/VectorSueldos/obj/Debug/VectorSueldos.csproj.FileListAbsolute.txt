@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldos\VectorSueldos\bin\Debug\VectorSueldos.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldos\VectorSueldos\bin\Debug\VectorSueldos.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldos\VectorSueldos\bin\Debug\VectorSueldos.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldos\VectorSueldos\obj\Debug\VectorSueldos.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldos\VectorSueldos\obj\Debug\VectorSueldos.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldos\VectorSueldos\obj\Debug\VectorSueldos.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldos\VectorSueldos\obj\Debug\VectorSueldos.pdb

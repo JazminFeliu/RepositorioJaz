@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaNavidad\FechaNavidad\obj\Debug\FechaNavidad.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaNavidad\FechaNavidad\obj\Debug\FechaNavidad.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaNavidad\FechaNavidad\bin\Debug\FechaNavidad.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaNavidad\FechaNavidad\bin\Debug\FechaNavidad.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaNavidad\FechaNavidad\bin\Debug\FechaNavidad.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaNavidad\FechaNavidad\obj\Debug\FechaNavidad.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\FechaNavidad\FechaNavidad\obj\Debug\FechaNavidad.pdb

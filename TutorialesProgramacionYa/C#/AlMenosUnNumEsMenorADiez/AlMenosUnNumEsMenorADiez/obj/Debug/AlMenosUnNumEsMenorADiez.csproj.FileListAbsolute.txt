@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AlMenosUnNumEsMenorADiez\AlMenosUnNumEsMenorADiez\bin\Debug\AlMenosUnNumEsMenorADiez.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AlMenosUnNumEsMenorADiez\AlMenosUnNumEsMenorADiez\bin\Debug\AlMenosUnNumEsMenorADiez.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AlMenosUnNumEsMenorADiez\AlMenosUnNumEsMenorADiez\bin\Debug\AlMenosUnNumEsMenorADiez.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AlMenosUnNumEsMenorADiez\AlMenosUnNumEsMenorADiez\obj\Debug\AlMenosUnNumEsMenorADiez.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AlMenosUnNumEsMenorADiez\AlMenosUnNumEsMenorADiez\obj\Debug\AlMenosUnNumEsMenorADiez.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AlMenosUnNumEsMenorADiez\AlMenosUnNumEsMenorADiez\obj\Debug\AlMenosUnNumEsMenorADiez.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AlMenosUnNumEsMenorADiez\AlMenosUnNumEsMenorADiez\obj\Debug\AlMenosUnNumEsMenorADiez.csprojAssemblyReference.cache

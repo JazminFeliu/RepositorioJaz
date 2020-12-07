@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TresValoresIguales\TresValoresIguales\obj\Debug\TresValoresIguales.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TresValoresIguales\TresValoresIguales\obj\Debug\TresValoresIguales.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TresValoresIguales\TresValoresIguales\bin\Debug\TresValoresIguales.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TresValoresIguales\TresValoresIguales\bin\Debug\TresValoresIguales.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TresValoresIguales\TresValoresIguales\bin\Debug\TresValoresIguales.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TresValoresIguales\TresValoresIguales\obj\Debug\TresValoresIguales.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TresValoresIguales\TresValoresIguales\obj\Debug\TresValoresIguales.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\bin\Debug\DosVectoresEnOrden.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\bin\Debug\DosVectoresEnOrden.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\bin\Debug\DosVectoresEnOrden.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.pdb

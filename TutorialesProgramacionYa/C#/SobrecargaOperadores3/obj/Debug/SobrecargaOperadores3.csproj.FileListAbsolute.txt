@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaOperadores3\bin\Debug\SobrecargaOperadores3.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaOperadores3\bin\Debug\SobrecargaOperadores3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaOperadores3\bin\Debug\SobrecargaOperadores3.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaOperadores3\obj\Debug\SobrecargaOperadores3.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaOperadores3\obj\Debug\SobrecargaOperadores3.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaOperadores3\obj\Debug\SobrecargaOperadores3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\SobrecargaOperadores3\obj\Debug\SobrecargaOperadores3.pdb

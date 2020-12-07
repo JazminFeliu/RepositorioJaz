@@ -1,0 +1,7 @@
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Composicion\Composicion\bin\Debug\Composicion.exe.config
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Composicion\Composicion\bin\Debug\Composicion.exe
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Composicion\Composicion\bin\Debug\Composicion.pdb
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Composicion\Composicion\obj\Debug\Composicion.csprojAssemblyReference.cache
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Composicion\Composicion\obj\Debug\Composicion.csproj.CoreCompileInputs.cache
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Composicion\Composicion\obj\Debug\Composicion.exe
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\Composicion\Composicion\obj\Debug\Composicion.pdb

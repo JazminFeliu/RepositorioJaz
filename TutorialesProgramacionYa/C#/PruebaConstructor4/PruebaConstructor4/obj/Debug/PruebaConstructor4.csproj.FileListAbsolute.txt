@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor4\PruebaConstructor4\bin\Debug\PruebaConstructor4.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor4\PruebaConstructor4\bin\Debug\PruebaConstructor4.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor4\PruebaConstructor4\bin\Debug\PruebaConstructor4.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor4\PruebaConstructor4\obj\Debug\PruebaConstructor4.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor4\PruebaConstructor4\obj\Debug\PruebaConstructor4.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor4\PruebaConstructor4\obj\Debug\PruebaConstructor4.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaConstructor4\PruebaConstructor4\obj\Debug\PruebaConstructor4.pdb

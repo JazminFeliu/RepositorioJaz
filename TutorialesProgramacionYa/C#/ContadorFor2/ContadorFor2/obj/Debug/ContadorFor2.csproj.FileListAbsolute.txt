@@ -1,0 +1,6 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorFor2\ContadorFor2\bin\Debug\ContadorFor2.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorFor2\ContadorFor2\bin\Debug\ContadorFor2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorFor2\ContadorFor2\bin\Debug\ContadorFor2.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorFor2\ContadorFor2\obj\Debug\ContadorFor2.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorFor2\ContadorFor2\obj\Debug\ContadorFor2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorFor2\ContadorFor2\obj\Debug\ContadorFor2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectores2\PruebaVectores2\bin\Debug\PruebaVectores2.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectores2\PruebaVectores2\bin\Debug\PruebaVectores2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectores2\PruebaVectores2\bin\Debug\PruebaVectores2.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectores2\PruebaVectores2\obj\Debug\PruebaVectores2.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectores2\PruebaVectores2\obj\Debug\PruebaVectores2.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectores2\PruebaVectores2\obj\Debug\PruebaVectores2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectores2\PruebaVectores2\obj\Debug\PruebaVectores2.pdb

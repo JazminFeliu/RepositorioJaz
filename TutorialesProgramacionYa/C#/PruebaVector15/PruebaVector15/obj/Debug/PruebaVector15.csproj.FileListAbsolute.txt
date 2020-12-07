@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVector15\PruebaVector15\bin\Debug\PruebaVector15.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVector15\PruebaVector15\bin\Debug\PruebaVector15.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVector15\PruebaVector15\bin\Debug\PruebaVector15.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVector15\PruebaVector15\obj\Debug\PruebaVector15.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVector15\PruebaVector15\obj\Debug\PruebaVector15.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVector15\PruebaVector15\obj\Debug\PruebaVector15.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVector15\PruebaVector15\obj\Debug\PruebaVector15.pdb

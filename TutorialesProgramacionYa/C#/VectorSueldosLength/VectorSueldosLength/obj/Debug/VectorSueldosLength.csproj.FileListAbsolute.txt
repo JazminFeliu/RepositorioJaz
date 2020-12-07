@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldosLength\VectorSueldosLength\bin\Debug\VectorSueldosLength.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldosLength\VectorSueldosLength\bin\Debug\VectorSueldosLength.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldosLength\VectorSueldosLength\bin\Debug\VectorSueldosLength.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldosLength\VectorSueldosLength\obj\Debug\VectorSueldosLength.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldosLength\VectorSueldosLength\obj\Debug\VectorSueldosLength.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldosLength\VectorSueldosLength\obj\Debug\VectorSueldosLength.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorSueldosLength\VectorSueldosLength\obj\Debug\VectorSueldosLength.pdb

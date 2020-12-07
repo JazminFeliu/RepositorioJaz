@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Colaboracion11\Colaboracion11\bin\Debug\Colaboracion11.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Colaboracion11\Colaboracion11\bin\Debug\Colaboracion11.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Colaboracion11\Colaboracion11\bin\Debug\Colaboracion11.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Colaboracion11\Colaboracion11\obj\Debug\Colaboracion11.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Colaboracion11\Colaboracion11\obj\Debug\Colaboracion11.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Colaboracion11\Colaboracion11\obj\Debug\Colaboracion11.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Colaboracion11\Colaboracion11\obj\Debug\Colaboracion11.csprojAssemblyReference.cache

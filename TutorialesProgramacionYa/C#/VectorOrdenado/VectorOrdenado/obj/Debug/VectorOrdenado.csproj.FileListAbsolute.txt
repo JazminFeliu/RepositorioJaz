@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorOrdenado\VectorOrdenado\bin\Debug\VectorOrdenado.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorOrdenado\VectorOrdenado\bin\Debug\VectorOrdenado.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorOrdenado\VectorOrdenado\bin\Debug\VectorOrdenado.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\VectorOrdenado\VectorOrdenado\obj\Debug\VectorOrdenado.pdb

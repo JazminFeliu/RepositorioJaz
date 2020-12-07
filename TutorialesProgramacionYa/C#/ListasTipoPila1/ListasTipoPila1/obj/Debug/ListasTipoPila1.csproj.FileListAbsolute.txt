@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListasTipoPila1\ListasTipoPila1\bin\Debug\ListasTipoPila1.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListasTipoPila1\ListasTipoPila1\bin\Debug\ListasTipoPila1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListasTipoPila1\ListasTipoPila1\bin\Debug\ListasTipoPila1.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListasTipoPila1\ListasTipoPila1\obj\Debug\ListasTipoPila1.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListasTipoPila1\ListasTipoPila1\obj\Debug\ListasTipoPila1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListasTipoPila1\ListasTipoPila1\obj\Debug\ListasTipoPila1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListasTipoPila1\ListasTipoPila1\obj\Debug\ListasTipoPila1.pdb

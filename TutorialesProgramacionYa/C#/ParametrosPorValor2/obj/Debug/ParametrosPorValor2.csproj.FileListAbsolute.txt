@@ -1,0 +1,6 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorValor2\bin\Debug\ParametrosPorValor2.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorValor2\bin\Debug\ParametrosPorValor2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorValor2\bin\Debug\ParametrosPorValor2.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorValor2\obj\Debug\ParametrosPorValor2.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorValor2\obj\Debug\ParametrosPorValor2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ParametrosPorValor2\obj\Debug\ParametrosPorValor2.pdb

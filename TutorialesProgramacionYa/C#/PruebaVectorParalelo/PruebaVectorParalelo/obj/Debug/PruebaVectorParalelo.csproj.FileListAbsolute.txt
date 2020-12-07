@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo\PruebaVectorParalelo\obj\Debug\PruebaVectorParalelo.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo\PruebaVectorParalelo\obj\Debug\PruebaVectorParalelo.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo\PruebaVectorParalelo\bin\Debug\PruebaVectorParalelo.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo\PruebaVectorParalelo\bin\Debug\PruebaVectorParalelo.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo\PruebaVectorParalelo\bin\Debug\PruebaVectorParalelo.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo\PruebaVectorParalelo\obj\Debug\PruebaVectorParalelo.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo\PruebaVectorParalelo\obj\Debug\PruebaVectorParalelo.pdb

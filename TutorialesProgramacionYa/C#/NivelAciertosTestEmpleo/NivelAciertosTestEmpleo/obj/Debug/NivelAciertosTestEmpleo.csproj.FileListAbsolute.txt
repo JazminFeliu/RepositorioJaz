@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NivelAciertosTestEmpleo\NivelAciertosTestEmpleo\bin\Debug\NivelAciertosTestEmpleo.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NivelAciertosTestEmpleo\NivelAciertosTestEmpleo\bin\Debug\NivelAciertosTestEmpleo.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NivelAciertosTestEmpleo\NivelAciertosTestEmpleo\bin\Debug\NivelAciertosTestEmpleo.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NivelAciertosTestEmpleo\NivelAciertosTestEmpleo\obj\Debug\NivelAciertosTestEmpleo.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NivelAciertosTestEmpleo\NivelAciertosTestEmpleo\obj\Debug\NivelAciertosTestEmpleo.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NivelAciertosTestEmpleo\NivelAciertosTestEmpleo\obj\Debug\NivelAciertosTestEmpleo.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\NivelAciertosTestEmpleo\NivelAciertosTestEmpleo\obj\Debug\NivelAciertosTestEmpleo.pdb

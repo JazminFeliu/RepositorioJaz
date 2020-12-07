@@ -1,0 +1,6 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraSwitch2\bin\Debug\EstructuraSwitch2.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraSwitch2\bin\Debug\EstructuraSwitch2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraSwitch2\bin\Debug\EstructuraSwitch2.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraSwitch2\obj\Debug\EstructuraSwitch2.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraSwitch2\obj\Debug\EstructuraSwitch2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraSwitch2\obj\Debug\EstructuraSwitch2.pdb

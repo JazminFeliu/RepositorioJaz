@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorHasta100\ContadorHasta100\bin\Debug\ContadorHasta100.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorHasta100\ContadorHasta100\bin\Debug\ContadorHasta100.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorHasta100\ContadorHasta100\bin\Debug\ContadorHasta100.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorHasta100\ContadorHasta100\obj\Debug\ContadorHasta100.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorHasta100\ContadorHasta100\obj\Debug\ContadorHasta100.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorHasta100\ContadorHasta100\obj\Debug\ContadorHasta100.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ContadorHasta100\ContadorHasta100\obj\Debug\ContadorHasta100.pdb

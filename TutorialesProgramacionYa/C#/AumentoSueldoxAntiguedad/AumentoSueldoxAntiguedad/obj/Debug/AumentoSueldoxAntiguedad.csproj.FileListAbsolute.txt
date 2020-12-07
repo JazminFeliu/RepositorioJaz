@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AumentoSueldoxAntiguedad\AumentoSueldoxAntiguedad\bin\Debug\AumentoSueldoxAntiguedad.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AumentoSueldoxAntiguedad\AumentoSueldoxAntiguedad\bin\Debug\AumentoSueldoxAntiguedad.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AumentoSueldoxAntiguedad\AumentoSueldoxAntiguedad\bin\Debug\AumentoSueldoxAntiguedad.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AumentoSueldoxAntiguedad\AumentoSueldoxAntiguedad\obj\Debug\AumentoSueldoxAntiguedad.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AumentoSueldoxAntiguedad\AumentoSueldoxAntiguedad\obj\Debug\AumentoSueldoxAntiguedad.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AumentoSueldoxAntiguedad\AumentoSueldoxAntiguedad\obj\Debug\AumentoSueldoxAntiguedad.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\AumentoSueldoxAntiguedad\AumentoSueldoxAntiguedad\obj\Debug\AumentoSueldoxAntiguedad.pdb

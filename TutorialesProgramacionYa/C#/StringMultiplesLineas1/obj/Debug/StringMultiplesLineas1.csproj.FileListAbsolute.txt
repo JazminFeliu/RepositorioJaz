@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\StringMultiplesLineas1\bin\Debug\StringMultiplesLineas1.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\StringMultiplesLineas1\bin\Debug\StringMultiplesLineas1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\StringMultiplesLineas1\bin\Debug\StringMultiplesLineas1.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\StringMultiplesLineas1\obj\Debug\StringMultiplesLineas1.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\StringMultiplesLineas1\obj\Debug\StringMultiplesLineas1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\StringMultiplesLineas1\obj\Debug\StringMultiplesLineas1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\StringMultiplesLineas1\obj\Debug\StringMultiplesLineas1.pdb

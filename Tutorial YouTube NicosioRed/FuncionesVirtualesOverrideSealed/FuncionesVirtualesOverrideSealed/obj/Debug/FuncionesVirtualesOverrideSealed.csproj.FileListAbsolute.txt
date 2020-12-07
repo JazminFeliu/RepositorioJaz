@@ -1,0 +1,7 @@
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\FuncionesVirtualesOverrideSealed\FuncionesVirtualesOverrideSealed\bin\Debug\FuncionesVirtualesOverrideSealed.exe.config
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\FuncionesVirtualesOverrideSealed\FuncionesVirtualesOverrideSealed\bin\Debug\FuncionesVirtualesOverrideSealed.exe
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\FuncionesVirtualesOverrideSealed\FuncionesVirtualesOverrideSealed\bin\Debug\FuncionesVirtualesOverrideSealed.pdb
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\FuncionesVirtualesOverrideSealed\FuncionesVirtualesOverrideSealed\obj\Debug\FuncionesVirtualesOverrideSealed.csprojAssemblyReference.cache
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\FuncionesVirtualesOverrideSealed\FuncionesVirtualesOverrideSealed\obj\Debug\FuncionesVirtualesOverrideSealed.csproj.CoreCompileInputs.cache
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\FuncionesVirtualesOverrideSealed\FuncionesVirtualesOverrideSealed\obj\Debug\FuncionesVirtualesOverrideSealed.exe
+D:\Documents\Jaz\LEARNING IT\Tutorial YouTube NicosioRed\FuncionesVirtualesOverrideSealed\FuncionesVirtualesOverrideSealed\obj\Debug\FuncionesVirtualesOverrideSealed.pdb

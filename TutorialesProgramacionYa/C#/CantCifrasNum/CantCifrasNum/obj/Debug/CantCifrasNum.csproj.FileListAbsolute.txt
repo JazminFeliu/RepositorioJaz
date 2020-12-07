@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CantCifrasNum\CantCifrasNum\bin\Debug\CantCifrasNum.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CantCifrasNum\CantCifrasNum\bin\Debug\CantCifrasNum.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CantCifrasNum\CantCifrasNum\bin\Debug\CantCifrasNum.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CantCifrasNum\CantCifrasNum\obj\Debug\CantCifrasNum.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CantCifrasNum\CantCifrasNum\obj\Debug\CantCifrasNum.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CantCifrasNum\CantCifrasNum\obj\Debug\CantCifrasNum.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CantCifrasNum\CantCifrasNum\obj\Debug\CantCifrasNum.pdb

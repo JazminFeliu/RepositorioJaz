@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuadranteDelPunto", "CuadranteDelPunto\CuadranteDelPunto.csproj", "{CD70D18B-0842-4293-B309-CD33FFC543B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD70D18B-0842-4293-B309-CD33FFC543B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD70D18B-0842-4293-B309-CD33FFC543B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD70D18B-0842-4293-B309-CD33FFC543B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD70D18B-0842-4293-B309-CD33FFC543B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4D9F26-C29C-4990-A62A-4EDD29A8A922}
+	EndGlobalSection
+EndGlobal

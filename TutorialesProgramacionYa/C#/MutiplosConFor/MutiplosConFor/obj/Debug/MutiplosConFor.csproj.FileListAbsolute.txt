@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MutiplosConFor\MutiplosConFor\bin\Debug\MutiplosConFor.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MutiplosConFor\MutiplosConFor\bin\Debug\MutiplosConFor.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MutiplosConFor\MutiplosConFor\bin\Debug\MutiplosConFor.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MutiplosConFor\MutiplosConFor\obj\Debug\MutiplosConFor.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MutiplosConFor\MutiplosConFor\obj\Debug\MutiplosConFor.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MutiplosConFor\MutiplosConFor\obj\Debug\MutiplosConFor.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MutiplosConFor\MutiplosConFor\obj\Debug\MutiplosConFor.pdb

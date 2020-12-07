@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase4\PruebaClase4\bin\Debug\PruebaClase4.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase4\PruebaClase4\bin\Debug\PruebaClase4.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase4\PruebaClase4\bin\Debug\PruebaClase4.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase4\PruebaClase4\obj\Debug\PruebaClase4.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase4\PruebaClase4\obj\Debug\PruebaClase4.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase4\PruebaClase4\obj\Debug\PruebaClase4.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase4\PruebaClase4\obj\Debug\PruebaClase4.pdb

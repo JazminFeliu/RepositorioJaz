@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\OrdenarTresNums\OrdenarTresNums\bin\Debug\OrdenarTresNums.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\OrdenarTresNums\OrdenarTresNums\bin\Debug\OrdenarTresNums.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\OrdenarTresNums\OrdenarTresNums\bin\Debug\OrdenarTresNums.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\OrdenarTresNums\OrdenarTresNums\obj\Debug\OrdenarTresNums.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\OrdenarTresNums\OrdenarTresNums\obj\Debug\OrdenarTresNums.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\OrdenarTresNums\OrdenarTresNums\obj\Debug\OrdenarTresNums.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\OrdenarTresNums\OrdenarTresNums\obj\Debug\OrdenarTresNums.pdb

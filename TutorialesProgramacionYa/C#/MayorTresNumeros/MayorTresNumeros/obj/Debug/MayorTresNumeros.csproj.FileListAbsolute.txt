@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorTresNumeros\MayorTresNumeros\obj\Debug\MayorTresNumeros.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorTresNumeros\MayorTresNumeros\obj\Debug\MayorTresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorTresNumeros\MayorTresNumeros\bin\Debug\MayorTresNumeros.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorTresNumeros\MayorTresNumeros\bin\Debug\MayorTresNumeros.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorTresNumeros\MayorTresNumeros\bin\Debug\MayorTresNumeros.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorTresNumeros\MayorTresNumeros\obj\Debug\MayorTresNumeros.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MayorTresNumeros\MayorTresNumeros\obj\Debug\MayorTresNumeros.pdb

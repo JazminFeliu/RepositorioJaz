@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo17\PruebaVectorParalelo17\bin\Debug\PruebaVectorParalelo17.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo17\PruebaVectorParalelo17\bin\Debug\PruebaVectorParalelo17.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo17\PruebaVectorParalelo17\bin\Debug\PruebaVectorParalelo17.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo17\PruebaVectorParalelo17\obj\Debug\PruebaVectorParalelo17.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo17\PruebaVectorParalelo17\obj\Debug\PruebaVectorParalelo17.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo17\PruebaVectorParalelo17\obj\Debug\PruebaVectorParalelo17.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaVectorParalelo17\PruebaVectorParalelo17\obj\Debug\PruebaVectorParalelo17.pdb

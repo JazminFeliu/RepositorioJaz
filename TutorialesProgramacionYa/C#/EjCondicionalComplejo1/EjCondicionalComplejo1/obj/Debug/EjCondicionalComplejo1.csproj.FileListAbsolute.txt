@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EjCondicionalComplejo1\EjCondicionalComplejo1\bin\Debug\EjCondicionalComplejo1.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EjCondicionalComplejo1\EjCondicionalComplejo1\bin\Debug\EjCondicionalComplejo1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EjCondicionalComplejo1\EjCondicionalComplejo1\bin\Debug\EjCondicionalComplejo1.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EjCondicionalComplejo1\EjCondicionalComplejo1\obj\Debug\EjCondicionalComplejo1.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EjCondicionalComplejo1\EjCondicionalComplejo1\obj\Debug\EjCondicionalComplejo1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EjCondicionalComplejo1\EjCondicionalComplejo1\obj\Debug\EjCondicionalComplejo1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EjCondicionalComplejo1\EjCondicionalComplejo1\obj\Debug\EjCondicionalComplejo1.pdb

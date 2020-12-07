@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase5\PruebaClase5\bin\Debug\PruebaClase5.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase5\PruebaClase5\bin\Debug\PruebaClase5.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase5\PruebaClase5\bin\Debug\PruebaClase5.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase5\PruebaClase5\obj\Debug\PruebaClase5.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase5\PruebaClase5\obj\Debug\PruebaClase5.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase5\PruebaClase5\obj\Debug\PruebaClase5.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaClase5\PruebaClase5\obj\Debug\PruebaClase5.pdb

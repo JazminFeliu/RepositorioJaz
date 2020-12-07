@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EnteroUnooDosDigitos\EnteroUnooDosDigitos\bin\Debug\EnteroUnooDosDigitos.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EnteroUnooDosDigitos\EnteroUnooDosDigitos\bin\Debug\EnteroUnooDosDigitos.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EnteroUnooDosDigitos\EnteroUnooDosDigitos\bin\Debug\EnteroUnooDosDigitos.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EnteroUnooDosDigitos\EnteroUnooDosDigitos\obj\Debug\EnteroUnooDosDigitos.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EnteroUnooDosDigitos\EnteroUnooDosDigitos\obj\Debug\EnteroUnooDosDigitos.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EnteroUnooDosDigitos\EnteroUnooDosDigitos\obj\Debug\EnteroUnooDosDigitos.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EnteroUnooDosDigitos\EnteroUnooDosDigitos\obj\Debug\EnteroUnooDosDigitos.pdb

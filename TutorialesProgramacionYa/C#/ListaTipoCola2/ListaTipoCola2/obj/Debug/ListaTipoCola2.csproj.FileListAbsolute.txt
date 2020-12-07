@@ -1,0 +1,10 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\bin\Debug\ListaTipoCola2.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\bin\Debug\ListaTipoCola2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\bin\Debug\ListaTipoCola2.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\obj\Debug\ListaTipoCola2.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\obj\Debug\ListaTipoCola2.Form1.resources
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\obj\Debug\ListaTipoCola2.Properties.Resources.resources
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\obj\Debug\ListaTipoCola2.csproj.GenerateResource.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\obj\Debug\ListaTipoCola2.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\obj\Debug\ListaTipoCola2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaTipoCola2\ListaTipoCola2\obj\Debug\ListaTipoCola2.pdb

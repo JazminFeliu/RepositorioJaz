@@ -1,0 +1,10 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\bin\Debug\PruebaExcepcion3.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\bin\Debug\PruebaExcepcion3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\bin\Debug\PruebaExcepcion3.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.Form1.resources
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.Properties.Resources.resources
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.csproj.GenerateResource.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.pdb

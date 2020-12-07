@@ -1,0 +1,7 @@
+D:\Documents\Jaz\LEARNING IT\Training Course Seba\GameOfLearnIT\GameOfLearnIT\bin\Debug\GameOfLearnIT.exe.config
+D:\Documents\Jaz\LEARNING IT\Training Course Seba\GameOfLearnIT\GameOfLearnIT\bin\Debug\GameOfLearnIT.exe
+D:\Documents\Jaz\LEARNING IT\Training Course Seba\GameOfLearnIT\GameOfLearnIT\bin\Debug\GameOfLearnIT.pdb
+D:\Documents\Jaz\LEARNING IT\Training Course Seba\GameOfLearnIT\GameOfLearnIT\obj\Debug\GameOfLearnIT.csprojAssemblyReference.cache
+D:\Documents\Jaz\LEARNING IT\Training Course Seba\GameOfLearnIT\GameOfLearnIT\obj\Debug\GameOfLearnIT.csproj.CoreCompileInputs.cache
+D:\Documents\Jaz\LEARNING IT\Training Course Seba\GameOfLearnIT\GameOfLearnIT\obj\Debug\GameOfLearnIT.exe
+D:\Documents\Jaz\LEARNING IT\Training Course Seba\GameOfLearnIT\GameOfLearnIT\obj\Debug\GameOfLearnIT.pdb

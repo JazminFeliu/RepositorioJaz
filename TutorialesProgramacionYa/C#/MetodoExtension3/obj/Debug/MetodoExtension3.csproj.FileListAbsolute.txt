@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoExtension3\bin\Debug\MetodoExtension3.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoExtension3\bin\Debug\MetodoExtension3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoExtension3\bin\Debug\MetodoExtension3.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoExtension3\obj\Debug\MetodoExtension3.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoExtension3\obj\Debug\MetodoExtension3.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoExtension3\obj\Debug\MetodoExtension3.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoExtension3\obj\Debug\MetodoExtension3.csprojAssemblyReference.cache

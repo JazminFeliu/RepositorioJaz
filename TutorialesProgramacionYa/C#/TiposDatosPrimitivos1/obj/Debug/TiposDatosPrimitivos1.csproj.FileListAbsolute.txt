@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TiposDatosPrimitivos1\bin\Debug\TiposDatosPrimitivos1.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TiposDatosPrimitivos1\bin\Debug\TiposDatosPrimitivos1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TiposDatosPrimitivos1\bin\Debug\TiposDatosPrimitivos1.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TiposDatosPrimitivos1\obj\Debug\TiposDatosPrimitivos1.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TiposDatosPrimitivos1\obj\Debug\TiposDatosPrimitivos1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TiposDatosPrimitivos1\obj\Debug\TiposDatosPrimitivos1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\TiposDatosPrimitivos1\obj\Debug\TiposDatosPrimitivos1.pdb

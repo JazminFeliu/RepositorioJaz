@@ -1,0 +1,6 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoEstatico2\bin\Debug\MetodoEstatico2.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoEstatico2\bin\Debug\MetodoEstatico2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoEstatico2\bin\Debug\MetodoEstatico2.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoEstatico2\obj\Debug\MetodoEstatico2.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoEstatico2\obj\Debug\MetodoEstatico2.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\MetodoEstatico2\obj\Debug\MetodoEstatico2.pdb

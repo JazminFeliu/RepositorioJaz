@@ -1,0 +1,6 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CuadranteDelPunto\CuadranteDelPunto\bin\Debug\CuadranteDelPunto.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CuadranteDelPunto\CuadranteDelPunto\bin\Debug\CuadranteDelPunto.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CuadranteDelPunto\CuadranteDelPunto\bin\Debug\CuadranteDelPunto.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CuadranteDelPunto\CuadranteDelPunto\obj\Debug\CuadranteDelPunto.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CuadranteDelPunto\CuadranteDelPunto\obj\Debug\CuadranteDelPunto.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CuadranteDelPunto\CuadranteDelPunto\obj\Debug\CuadranteDelPunto.pdb

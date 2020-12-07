@@ -1,0 +1,10 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\bin\Debug\ProblemaCola1.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\bin\Debug\ProblemaCola1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\bin\Debug\ProblemaCola1.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\obj\Debug\ProblemaCola1.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\obj\Debug\ProblemaCola1.Form1.resources
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\obj\Debug\ProblemaCola1.Properties.Resources.resources
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\obj\Debug\ProblemaCola1.csproj.GenerateResource.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\obj\Debug\ProblemaCola1.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\obj\Debug\ProblemaCola1.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ProblemaCola1\obj\Debug\ProblemaCola1.pdb

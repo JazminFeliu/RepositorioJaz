@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructurasCondicionalesSimplesyComplejas\SueldoPersona\bin\Debug\SueldoPersona.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructurasCondicionalesSimplesyComplejas\SueldoPersona\bin\Debug\SueldoPersona.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructurasCondicionalesSimplesyComplejas\SueldoPersona\bin\Debug\SueldoPersona.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructurasCondicionalesSimplesyComplejas\SueldoPersona\obj\Debug\SueldoPersona.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructurasCondicionalesSimplesyComplejas\SueldoPersona\obj\Debug\SueldoPersona.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructurasCondicionalesSimplesyComplejas\SueldoPersona\obj\Debug\SueldoPersona.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructurasCondicionalesSimplesyComplejas\SueldoPersona\obj\Debug\SueldoPersona.pdb

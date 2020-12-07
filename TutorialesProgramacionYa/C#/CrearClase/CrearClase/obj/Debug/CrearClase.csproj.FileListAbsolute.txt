@@ -1,0 +1,7 @@
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CrearClase\CrearClase\bin\Debug\CrearClase.exe.config
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CrearClase\CrearClase\bin\Debug\CrearClase.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CrearClase\CrearClase\bin\Debug\CrearClase.pdb
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CrearClase\CrearClase\obj\Debug\CrearClase.csprojAssemblyReference.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CrearClase\CrearClase\obj\Debug\CrearClase.csproj.CoreCompileInputs.cache
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CrearClase\CrearClase\obj\Debug\CrearClase.exe
+C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\CrearClase\CrearClase\obj\Debug\CrearClase.pdb
