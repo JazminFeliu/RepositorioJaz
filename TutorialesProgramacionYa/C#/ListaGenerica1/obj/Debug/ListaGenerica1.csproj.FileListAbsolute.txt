@@ -5,3 +5,10 @@ C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaGener
 C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaGenerica1\bin\Debug\ListaGenerica1.pdb
 C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaGenerica1\obj\Debug\ListaGenerica1.exe
 C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\ListaGenerica1\obj\Debug\ListaGenerica1.pdb
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\ListaGenerica1\bin\Debug\ListaGenerica1.exe.config
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\ListaGenerica1\bin\Debug\ListaGenerica1.exe
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\ListaGenerica1\bin\Debug\ListaGenerica1.pdb
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\ListaGenerica1\obj\Debug\ListaGenerica1.csprojAssemblyReference.cache
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\ListaGenerica1\obj\Debug\ListaGenerica1.csproj.CoreCompileInputs.cache
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\ListaGenerica1\obj\Debug\ListaGenerica1.exe
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\ListaGenerica1\obj\Debug\ListaGenerica1.pdb

@@ -5,3 +5,10 @@ C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectore
 C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.csproj.CoreCompileInputs.cache
 C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.exe
 C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.pdb
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\bin\Debug\DosVectoresEnOrden.exe.config
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\bin\Debug\DosVectoresEnOrden.exe
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\bin\Debug\DosVectoresEnOrden.pdb
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.csprojAssemblyReference.cache
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.csproj.CoreCompileInputs.cache
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.exe
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\DosVectoresEnOrden\DosVectoresEnOrden\obj\Debug\DosVectoresEnOrden.pdb
