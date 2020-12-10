@@ -9,23 +9,45 @@ namespace TiendaDeArticulos
     public class Tienda
     {
         private IArticulo _articulo;
+        public int opcionMenu;
+        public int _stockArticulosCargados;
+        public int _stockACargar;
 
-        public void IniciarTienda()
+        public int IniciarTienda()
         {
-            Console.Write("Bienvenida a la Tienda de Articulos! Por favor, ingrese el nombre del articulo a gestionar:");
-            string nombre = Console.ReadLine();
-
-            Console.Write($"Elija el sector al que asignará {nombre} (A: Almacén / B: Bazar): ");
-
-            string tipo = Console.ReadLine();
-
-            _articulo = tipo == "A"
-                ? ArticuloFactory.CrearArticulo((TipoDeArticulo)1, nombre)
-                : ArticuloFactory.CrearArticulo((TipoDeArticulo)2, nombre);
+            Console.WriteLine("Bienvenida a la Tienda de Articulos!");
+            Console.WriteLine("");
+            Console.WriteLine("Menu Principal");
+            Console.WriteLine("Ingrese una opcion:");
+            Console.WriteLine("0- Ingresar Articulo");
+            Console.WriteLine("1- Ver Articulo");
+            Console.WriteLine("2- Ver Inventario");
+            Console.WriteLine("3- Actualizar Inventario");
+            Console.WriteLine("4 - Salir");
+            string op = Console.ReadLine();
+            return opcionMenu = int.Parse(op);
         }
+
+        public void DefinirStock()
+        {
+            Console.Write("Ingrese el stock de articulos con los que iniciara la prueba: ");
+            string stock = Console.ReadLine();
+            _stockACargar = int.Parse(stock);
+        }
+
 
         public void DefinirArticulo()
         {
+            Console.Write("Por favor, ingrese el nombre del articulo a gestionar :");
+            string nombre = Console.ReadLine();
+
+            Console.Write($"Elija el sector al que asignará {nombre} (A: Almacén / B: Bazar): ");
+            string tipo = Console.ReadLine();
+
+            _articulo = tipo == "A"
+                ? ArticuloFactory.CrearArticulo((TipoDeArticulo)1, nombre, _stockArticulosCargados)
+                : ArticuloFactory.CrearArticulo((TipoDeArticulo)2, nombre, _stockArticulosCargados);
+
             _articulo.DefinirArticulo();
 
         }

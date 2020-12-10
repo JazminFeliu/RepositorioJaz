@@ -9,6 +9,7 @@ namespace TiendaDeArticulos
     public interface IArticulo
     {
         string Nombre { get; set; }
+        int StockArticulosCargados { get; set; }
         void DefinirArticulo();
         void IngresarArticulo();
         void VerArticulo();

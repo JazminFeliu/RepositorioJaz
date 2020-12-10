@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace TiendaDeArticulos
 {
-    public class Articulo : IArticulo
+    public abstract class Articulo : IArticulo
     {
         public string Nombre { get; set; }
+        public int StockArticulosCargados { get; set; }
 
         public abstract void DefinirArticulo();
         public abstract void IngresarArticulo();

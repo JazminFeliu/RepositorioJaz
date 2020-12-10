@@ -9,7 +9,7 @@ namespace TiendaDeArticulos
     public enum TipoDeArticulo
     {
         NA,
-        Bazar,
-        Almacen
+        Almacen,
+        Bazar
     }
 }

@@ -13,26 +13,22 @@ namespace TiendaDeArticulos
         private decimal[] _precio;
         private int[] _cantidad;
 
-        private int cantidadDisponible = 0;
-
-        public Bazar(string nombre)
+        public Bazar(string nombre, int stock)
         {
             Nombre = nombre;
+            StockArticulosCargados = stock;
         }
 
         public override void DefinirArticulo()
         {
-            cantidadDisponible++;
-
             Console.WriteLine($"El Articulo {Nombre} se ingresará en la Seccion Bazar");
-            Console.WriteLine("Recuerde que solamente puede ingresar un maximo de 15 articulos en esta Sección");
-            Console.WriteLine($"Quedan {cantidadDisponible} lugares disponibles. ");
+            Console.WriteLine($"El stock de articulos cargados hasta el momento es de {StockArticulosCargados}");
 
         }
 
         public override void IngresarArticulo()
         {
-
+            
         }
 
         public override void VerArticulo()

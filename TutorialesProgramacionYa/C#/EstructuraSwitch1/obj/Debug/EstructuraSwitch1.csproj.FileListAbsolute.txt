@@ -5,3 +5,10 @@ C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\Estructura
 C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraSwitch1\obj\Debug\EstructuraSwitch1.csproj.CoreCompileInputs.cache
 C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraSwitch1\obj\Debug\EstructuraSwitch1.exe
 C:\Users\Jazmin\Documents\Jaz\LEARNING IT\TutorialesProgramacionYa\C#\EstructuraSwitch1\obj\Debug\EstructuraSwitch1.pdb
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\EstructuraSwitch1\bin\Debug\EstructuraSwitch1.exe.config
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\EstructuraSwitch1\bin\Debug\EstructuraSwitch1.exe
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\EstructuraSwitch1\bin\Debug\EstructuraSwitch1.pdb
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\EstructuraSwitch1\obj\Debug\EstructuraSwitch1.csprojAssemblyReference.cache
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\EstructuraSwitch1\obj\Debug\EstructuraSwitch1.csproj.CoreCompileInputs.cache
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\EstructuraSwitch1\obj\Debug\EstructuraSwitch1.exe
+D:\Documents\Repos\RepositorioJaz\TutorialesProgramacionYa\C#\EstructuraSwitch1\obj\Debug\EstructuraSwitch1.pdb

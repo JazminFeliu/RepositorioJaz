@@ -11,21 +11,39 @@ namespace TiendaDeArticulos
         static void Main(string[] args)
         {
             var tienda = new Tienda();
-            string op = "S";
 
-            while (op == "S")
+            int stock = tienda.DefinirStock();
+
+            for (int cont = 1; cont <= stock; cont++)
             {
-                tienda.IniciarTienda();
-                tienda.DefinirArticulo();
-                tienda.IngresarArticulo();
-                tienda.VerArticulo();
-                tienda.ActualizarArticulo();
-                tienda.VerInventario();
+                int opcionElegida = tienda.IniciarTienda();
 
-                Console.Write("Desea continuar?(S/N)");
-                op = Console.ReadLine();
-
+                switch (opcionElegida)
+                {
+                    case 0:
+                        tienda.DefinirArticulo();
+                        tienda.IngresarArticulo();
+                        break;
+                    case 1:
+                        tienda.VerArticulo();
+                        break;
+                    case 2:
+                        tienda.VerInventario();
+                        break;
+                    case 3:
+                        tienda.ActualizarArticulo();
+                        break;
+                    case 4:
+                        Console.WriteLine("Gracias por utilizar la Tienda de Articulos");
+                        cont = stock;
+                        break;
+                    default:
+                        Console.WriteLine("Ingrese una opcion correcta");
+                        cont = cont - 1;
+                        break;
+                }
             }
+            Console.ReadKey();
         }
     }
 }

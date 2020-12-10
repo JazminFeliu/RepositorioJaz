@@ -11,7 +11,7 @@ namespace TiendaDeArticulos
         private static Bazar _bazar;
         private static Almacen _almacen;
 
-        public static IArticulo CrearArticulo(TipoDeArticulo articulo, string nombre)
+        public static IArticulo CrearArticulo(TipoDeArticulo articulo, string nombre, int stock)
         {
             IArticulo obj = null;
 
@@ -19,14 +19,14 @@ namespace TiendaDeArticulos
             {
                 case TipoDeArticulo.Bazar:
                     if (_bazar == null)
-                        _bazar = new Bazar(nombre);
+                        _bazar = new Bazar(nombre, stock);
 
                     obj = _bazar;
                     break;
 
                 case TipoDeArticulo.Almacen:
                     if (_almacen == null)
-                        _almacen = new Almacen(nombre);
+                        _almacen = new Almacen(nombre, stock);
 
                     obj = _almacen;
                     break;
