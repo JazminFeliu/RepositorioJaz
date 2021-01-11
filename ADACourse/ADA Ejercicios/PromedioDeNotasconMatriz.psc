@@ -4,12 +4,13 @@ Funcion promedio = promediar(notas, cantidadAlumnos, cantidadNotas)
 		
 		Escribir cantidadNotas," notas del alumno ",i," generadas al azar: ";
 		Para j= 1 Hasta cantidadNotas Hacer			
-			notas[i,j] = azar(10);
-			Escribir notas[i,j];
+			Escribir"Ingrese la nota numero: ", j;
+			Leer notas[i,j] 
+			
 			totalAlumno = totalAlumno + notas[i,j];
 		FinPara
 		promedioAlumno = totalAlumno/cantidadNotas;
-		Escribir"El promedio de notas del alumno es: ",promedioAlumno;
+		Escribir"El promedio de notas del alumno Santiago es: ",promedioAlumno;
 		totalCurso = totalCurso + promedioAlumno;
 	FinPara
 	promedio = totalCurso/cantidadAlumnos;

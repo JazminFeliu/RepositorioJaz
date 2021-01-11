@@ -13,10 +13,10 @@ namespace TiendaDeArticulos
         private decimal[] _precio;
         private int[] _cantidad;
 
-        public Almacen(string nombre, int stock)
+        public Almacen(string nombre)
         {
             Nombre = nombre;
-            StockArticulosCargados = stock;
+           
         }
 
         public override void DefinirArticulo()

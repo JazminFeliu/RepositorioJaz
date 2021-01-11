@@ -8,8 +8,12 @@ namespace TiendaDeArticulos
 {
     public class ArticuloFactory
     {
+        private int _stockArticulosCargados; 
+
         private static Bazar _bazar;
         private static Almacen _almacen;
+
+        _stockArticulosCargados = 0;
 
         public static IArticulo CrearArticulo(TipoDeArticulo articulo, string nombre, int stock)
         {
@@ -19,20 +23,22 @@ namespace TiendaDeArticulos
             {
                 case TipoDeArticulo.Bazar:
                     if (_bazar == null)
-                        _bazar = new Bazar(nombre, stock);
+                        _bazar = new Bazar(nombre);
 
                     obj = _bazar;
                     break;
 
                 case TipoDeArticulo.Almacen:
                     if (_almacen == null)
-                        _almacen = new Almacen(nombre, stock);
+                        _almacen = new Almacen(nombre);
 
                     obj = _almacen;
                     break;
 
             }
             return obj;
+
+            _stockArticulosCargados = _stockArticulosCargados + 1;
         }
     }
 }

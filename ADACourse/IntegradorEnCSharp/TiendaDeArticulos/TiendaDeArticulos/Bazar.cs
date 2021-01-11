@@ -8,15 +8,16 @@ namespace TiendaDeArticulos
 {
     public class Bazar : Articulo
     {
-        private int[] _id;
+        // todos vectores paralelos, elementos int (ID y CANTIDAD), uno string (DETALLE) y otro decimal (PRECIOS) 
+        private int[] _IDyCantidadBazar;
         private string[] _detalle;
         private decimal[] _precio;
         private int[] _cantidad;
 
-        public Bazar(string nombre, int stock)
+        public Bazar(string nombre)
         {
             Nombre = nombre;
-            StockArticulosCargados = stock;
+
         }
 
         public override void DefinirArticulo()

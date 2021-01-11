@@ -28,11 +28,12 @@ namespace TiendaDeArticulos
             return opcionMenu = int.Parse(op);
         }
 
-        public void DefinirStock()
+        public int DefinirStock()
         {
             Console.Write("Ingrese el stock de articulos con los que iniciara la prueba: ");
             string stock = Console.ReadLine();
             _stockACargar = int.Parse(stock);
+            return _stockACargar;
         }
 
 
